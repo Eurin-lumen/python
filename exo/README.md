@@ -67,7 +67,7 @@
 
     Le nombre de notes n’est pas connu a priori et l’utilisateur peut en fournir autant qu’il le désire. Pour signaler qu’il a terminé, on convient qu’il fournira une note fictive négative. Celle-ci ne devra naturellement pas être prise en compte dans le calcul de la moyenne.
 
-# Exercice 12
+# Exercice 13
 
     Ecrire un programme permettant de lire un nombre entier N puis calcule son factoriel.
     Utilisez tant que,
